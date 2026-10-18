@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please preserve the local theorem's assumptions and unrefereed status when citing."
+title: "Local stability of cosine configurations for Gaussian minima"
+authors:
+  - name: Anonymous
+version: 1.0.0
+date-released: 2026-10-18
+type: article
+license: CC0-1.0
+doi: 10.5281/zenodo.23453252
+repository-code: https://github.com/ipitchford/gaussian-cosine-local-stability

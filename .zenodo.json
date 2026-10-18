@@ -1,0 +1,13 @@
+{
+  "title": "Local stability of cosine configurations for Gaussian minima",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "creators": [{"name": "Anonymous"}],
+  "version": "1.0.0",
+  "doi": "10.5281/zenodo.23453252",
+  "publication_date": "2026-10-18",
+  "access_right": "open",
+  "license": "cc-zero",
+  "description": "Unrefereed AI-assisted mathematical candidate. For every fixed n at least 3 and moment exponent p greater than 1, the paper derives the second variation of the Gaussian minimum moment at equally spaced planar cosine configurations, including rank-increasing directions, and establishes strict local minimality modulo symmetries. The global Gaussian-minimum conjecture remains unresolved. The local neighbourhood is existential, not a certified numerical radius or uniform estimate over the parameters. Exact finite algebra and floating-point diagnostics do not certify the analytic theorem. Original prose/data are CC0-1.0 and original code is MIT.",
+  "keywords": ["Gaussian minima", "local stability", "second variation", "cosine configuration", "signed cycle", "correlation matrix"]
+}
